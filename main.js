@@ -149,11 +149,6 @@ const app = {
       </div>`;
     });
     playList.innerHTML = htmls.join('');
-    if (app.currentIndex == 1) {
-      console.log(true);
-    } else {
-      console.log(false);
-    }
   },
 
   //Đặt ra 1 thuộc tính bằng defineProperties : Object.defineProperties(obj cần đặt thuộc, 'name',{method: get.vvv })
