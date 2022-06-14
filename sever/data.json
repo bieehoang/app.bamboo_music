@@ -1,0 +1,52 @@
+{
+  "songs": [
+    {
+      "name": "Don't Worry Bout Me",
+      "singer": "Zara Larsson",
+      "path": "./assets/music/Zara Larsson  Dont Worry Bout Me Official Music Video.mp3",
+      "image": "https://th.bing.com/th/id/OIP.a5ZkjvAIGEH1HOZztY01FQHaH9?w=172&h=185&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "name": "Dont Worry About Me",
+      "singer": "Frances",
+      "path": "./assets/music/Frances  Dont Worry About Me Official Video.mp3",
+      "image": "https://th.bing.com/th/id/OIP.2qqXVM-ZJaR5qoM7c5wNoAHaHa?w=170&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "name": "Older",
+      "singer": "Sasha Sloan",
+      "path": "./assets/music/Sasha Sloan  Older Lyric Video.mp3",
+      "image": "https://th.bing.com/th/id/OIP.PWDnil9BDhOne8cfB5xHhgHaEK?w=318&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "name": "Dusk Till Dawn",
+      "singer": "ZAYN",
+      "path": "./assets/music/ZAYN  Dusk Till Dawn ft Sia Official Music Video.mp3",
+      "image": "https://th.bing.com/th/id/OIP.ixj3GeQ7OB1IhqysXInviQHaHa?w=225&h=220&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "name": "Beautiful",
+      "singer": "Cain",
+      "path": "./assets/music/Cain  Gh p ft LCKing Official Audio.mp3",
+      "image": "https://i.ytimg.com/vi/jTLhQf5KJSc/maxresdefault.jpg"
+    },
+    {
+      "name": "Fallacy",
+      "singer": "Cxdy",
+      "path": "./assets/music/Cxdy  Fallacy.mp3",
+      "image": "https://1.bp.blogspot.com/-kX21dGUuTdM/X85ij1SBeEI/AAAAAAAAKK4/feboCtDKkls19cZw3glZWRdJ6J8alCm-gCNcBGAsYHQ/s16000/Tu%2BAana%2BPhir%2BSe%2BRap%2BSong%2BLyrics%2BBy%2BRaftaar.jpg"
+    },
+    {
+      "name": "HandUps",
+      "singer": "Tri",
+      "path": "./assets/music/Put Ur Hands.mp3",
+      "image": "https://i.ytimg.com/vi/QvswgfLDuPg/maxresdefault.jpg"
+    },
+    {
+      "name": "Frog",
+      "singer": "Beats",
+      "path": "./assets/music/FREE Freestyle Type Beat Frog   Free Type Beat   Rap Trap Beats lhm6sWjZU4E.mp3",
+      "image": "https://i.ytimg.com/vi/QvswgfLDuPg/maxresdefault.jpg"
+    }
+  ]
+}
