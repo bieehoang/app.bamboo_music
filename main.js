@@ -378,6 +378,5 @@ const app = {
     this.loadCurrentSong();
   },
 };
-console.log(app.songs);
 
 app.start();
