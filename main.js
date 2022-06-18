@@ -28,34 +28,8 @@ const repeatButton = $('.btn-repeat');
 const playList = $('.playlist');
 const apiSongs = 'http://localhost:3000/songs';
 
-// fetch(apiSongs)
-//   .then(function (respond) {
-//     return respond.json();
-//   })
-//   .then(function (songs) {
-//     const htmls = songs.map(function (song, index) {
-//       //   return `
-//       // <div class="song ${
-//       //   index === app.currentIndex ? 'active' : ''
-//       // }" data-index="${index}">
-//       //     <div
-//       //     class="thumb"
-//       //     style="
-//       //         background-image: url('${song.image}');
-//       //     "
-//       //     ></div>
-//       //     <div class="body">
-//       //     <h3 class="title">${song.name}</h3>
-//       //     <p class="author">${song.singer}</p>
-//       //     </div>
-//       //     <div class="option">
-//       //     <i class="fas fa-ellipsis-h"></i>
-//       //     </div>
-//       // </div>`;
-//     });
-//     playList.innerHTML = htmls.join('');
-//   });
 //check
+
 //Data
 const app = {
   // Đặt trạng thái nhạc hoạt động
@@ -149,11 +123,6 @@ const app = {
       </div>`;
     });
     playList.innerHTML = htmls.join('');
-    if (app.currentIndex == 1) {
-      console.log(true);
-    } else {
-      console.log(false);
-    }
   },
 
   //Đặt ra 1 thuộc tính bằng defineProperties : Object.defineProperties(obj cần đặt thuộc, 'name',{method: get.vvv })
@@ -383,6 +352,5 @@ const app = {
     this.loadCurrentSong();
   },
 };
-console.log(app.songs);
 
 app.start();
