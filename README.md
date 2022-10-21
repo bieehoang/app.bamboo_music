@@ -1,7 +1,7 @@
 ![bamboo_music](https://user-images.githubusercontent.com/99249759/197258952-90ebeb41-f520-4d9c-9b2c-5617dfab6f61.png)
 
 >
-# App.bamboo_music. 
+# APP.BAMBOO_MUSIC
 ## A web-app to listen music, free, easy to use. 
 >To see it you can copy the link I wrote here and paste in any browsers you are using.
 >
