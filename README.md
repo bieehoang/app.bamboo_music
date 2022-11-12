@@ -6,7 +6,7 @@
 >To see it you can copy the link I wrote here and paste in any browsers you are using.
 >
 ## PREVIEW
-_Published at_ **https://qiese.github.io/app.bamboo_music/**
+### Published at [here](https://qiese.github.io/app.bamboo_music/)
 >
 >*Position**: Developer, Designer, Tester..
 >
